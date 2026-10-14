@@ -3,10 +3,12 @@
 | # | Information | Source (page / fichier) | Méthode (outil, commande) | Fuite volontaire ? |
 |---|---|---|---|---|
 | 1 |Wifi invité |http://localhost:8080/files/equipe-2024.jpg |recherche sur le site web |non |
+| 2 |VPN | procedure-vpn.docx|Information sur le site web|non|
 ## Flags
 | # | Flag | Où | Comment |
 |---|---|---|---|
 | 1 | ACME{zoom_sur_le_post_it} | post-it | lecture |
+| 2 |ACME{docx_chemin_interne} | trouver depuis le docx | changer l'extension du fichier en ligne|
 ## Le kit du fraudeur
 (qui viser, au nom de qui, quelle adresse, quand, quels détails, quel portail — chaque
 ligne sourcée)
