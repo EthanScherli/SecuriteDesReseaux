@@ -2,10 +2,11 @@
 ## Trouvailles
 | # | Information | Source (page / fichier) | Méthode (outil, commande) | Fuite volontaire ? |
 |---|---|---|---|---|
-| 1 | | | | |
+| 1 |Wifi invité |http://localhost:8080/files/equipe-2024.jpg |recherche sur le site web |non |
 ## Flags
 | # | Flag | Où | Comment |
 |---|---|---|---|
+| 1 | ACME{zoom_sur_le_post_it} | post-it | lecture |
 ## Le kit du fraudeur
 (qui viser, au nom de qui, quelle adresse, quand, quels détails, quel portail — chaque
 ligne sourcée)
