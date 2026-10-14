@@ -1,7 +1,6 @@
 # TP1 — Fiche de renseignement ACME-BE (nom, prénom)
 ## Trouvailles
-| # | Information | Source (page / fichier) | Méthode (outil, commande) | Fuite
-volontaire ? |
+| # | Information | Source (page / fichier) | Méthode (outil, commande) | Fuite volontaire ? |
 |---|---|---|---|---|
 | 1 | | | | |
 ## Flags
