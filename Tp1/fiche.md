@@ -9,6 +9,8 @@
 |---|---|---|---|
 | 1 | ACME{zoom_sur_le_post_it} | post-it | lecture |
 | 2 |ACME{docx_chemin_interne} | trouver depuis le docx | changer l'extension du fichier en ligne|
+| 3 |ACME{html_source_oublie} | trouver dans l'outil inspecter| chercher dans le body|
+| 4 |ACME{exif_garde_tout} | trouver grace a l'outil exiftool | dans les métadatas de l'image|
 ## Le kit du fraudeur
 (qui viser, au nom de qui, quelle adresse, quand, quels détails, quel portail — chaque
 ligne sourcée)
