@@ -14,6 +14,7 @@
 ## Le kit du fraudeur
 (qui viser, au nom de qui, quelle adresse, quand, quels détails, quel portail — chaque
 ligne sourcée)
+
 ## Le phishing kit (mission 6)
 (ce qui trahissait le faux portail ; pourquoi le MFA et le gestionnaire de mots de
 passe protègent)
